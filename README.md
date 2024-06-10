@@ -1,2 +1,2 @@
-# Previs-o_-Modelo_LSTM_-D-lar-
+# Previsao_Modelo_LSTM_Dolar
 Previsão do valor Real/Dólar com modelo LSTM 
