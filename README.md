@@ -2,7 +2,7 @@
 Este projeto visa desenvolver um modelo de rede neural Long Short-Term Memory (LSTM) para prever o valor do dólar. LSTMs são eficazes em capturar dependências de longo prazo em séries temporais, tornando-as ideais para a previsão de preços de moedas.
 
 Problema de Negócio
-Prever o valor futuro do dólar é essencial para investidores, traders e empresas que operam no mercado financeiro. Com previsões precisas, é possível tomar decisões informadas sobre investimentos e estratégias de hedge.
+Prever o valor futuro do dólar é essencial para investidores, traders e empresas que operam no mercado financeiro. Com previsões precisas, é possível tomar decisões informadas sobre investimentos e estratégias de hedge (proteção da carteira para que possíveis movimentos negativos do mercado afetem totalmente os rendimentos).
 
 Estrutura do Projeto
 1. Importação de Bibliotecas e Carregamento dos Dados
