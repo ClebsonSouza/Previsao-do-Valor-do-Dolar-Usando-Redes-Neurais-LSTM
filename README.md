@@ -1,4 +1,4 @@
-# Previsão do Valor do Dólar usando LSTM
+## Previsão do Valor do Dólar usando LSTM
 
 Este projeto visa desenvolver um modelo de rede neural Long Short-Term Memory (LSTM) para prever o valor do dólar. LSTMs são eficazes em capturar dependências de longo prazo em séries temporais, tornando-as ideais para a previsão de preços de moedas.
 
